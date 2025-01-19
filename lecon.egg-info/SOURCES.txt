@@ -1,0 +1,12 @@
+License.txt
+setup.py
+lecon/PascalTriangle.py
+lecon/QuadraticEquation.py
+lecon/SimultaneousEquation.py
+lecon/__init__.py
+lecon/spog.py
+lecon.egg-info/PKG-INFO
+lecon.egg-info/SOURCES.txt
+lecon.egg-info/dependency_links.txt
+lecon.egg-info/not-zip-safe
+lecon.egg-info/top_level.txt
